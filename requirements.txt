@@ -1,11 +1,6 @@
+streamlit
 tensorflow
 numpy
-pandas
-matplotlib
 plotly
-streamlit
-streamlit-drawable-canvas
 pillow
-emnist
-scikit-learn
-idx2numpy
+streamlit-drawable-canvas
